@@ -2,7 +2,7 @@
 
 
 >>
-Get information from (google) linkdin (search API)
+Get information from (google) linkdin (search API)<br>
 search criteria:  https://www.linkedin.com/in/
 
 Filters
